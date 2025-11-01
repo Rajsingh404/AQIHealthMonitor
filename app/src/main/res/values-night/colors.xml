@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8B9EF5</color>
+    <color name="primary_dark">#9B7EDA</color>
+    <color name="accent">#F5A8FF</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="background">#121212</color>
+    <color name="background_card">#1E1E1E</color>
+    
+    <color name="text_primary">#E1E1E1</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#707070</color>
+    <color name="divider">#2C2C2C</color>
+    
+    <color name="error">#FF5252</color>
+    <color name="success">#69F0AE</color>
+    <color name="warning">#FFD740</color>
+    <color name="info">#40C4FF</color>
+    
+    <color name="aqi_good">#00E676</color>
+    <color name="aqi_moderate">#FFD54F</color>
+    <color name="aqi_unhealthy_sensitive">#FFB74D</color>
+    <color name="aqi_unhealthy">#EF5350</color>
+    <color name="aqi_very_unhealthy">#AB47BC</color>
+    <color name="aqi_hazardous">#C62828</color>
+</resources>

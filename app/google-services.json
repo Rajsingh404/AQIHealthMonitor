@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "362125622431",
+    "firebase_url": "https://fir-b125-12715-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-b125-12715",
+    "storage_bucket": "fir-b125-12715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362125622431:android:dc9aeebfc1006cde0a36aa",
+        "android_client_info": {
+          "package_name": "com.example.aqihealthmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tr6BYsq6FbNapmc63dmfvJGHDNpZUjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
